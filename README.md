@@ -32,8 +32,3 @@ Experiment 8:-
 
 Experiment 9:-
    Program Counter
-
-Experiment 6:-
-    
-
-Experiment 6:-
